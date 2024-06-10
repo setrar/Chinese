@@ -36,3 +36,10 @@ Míngtiān wǒ xǐhuān qù yìdàlì, nǐ ne?
 
 BR - 明天下午, 我想去圖書店
 Míngtiān xiàwǔ, wǒ xiǎng qù tú shūdiàn
+
+
+GP - 明天是几号？
+Míngtiān shì jǐ hào?
+
+BR - 明天十六月一时一好，行七三
+Míngtiān shí liù yuè shíyī hào, xīngqī sān
