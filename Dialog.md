@@ -5,7 +5,7 @@ GP - 我叫 ....
 Wǒ jiào ...., nǐ ne?
 
 BR - 你家有几口人?
-Wǒ jiào Brice, Nǐ jiā yǒu jǐ kǒu rén?
+Wǒ jiào B..., Nǐ jiā yǒu jǐ kǒu rén?
 
 GP - 我的家有五口人. 你是哪国人
 Wǒ de jiā yǒu wǔ kǒu rén. Nǐ shì nǎ guórén?
