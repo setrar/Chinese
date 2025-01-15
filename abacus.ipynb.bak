@@ -1,0 +1,91 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "d9b6e4ed-2270-4c76-8c1b-6b8dbf95bd6c",
+   "metadata": {},
+   "source": [
+    "$\\Huge\\textbf{Suàn pan}$"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "104cb60a-31d6-47e7-9858-339ebe83f859",
+   "metadata": {},
+   "source": [
+    "Here’s how powers of 10 correspond to their representation on an abacus, shown in a table:\n",
+    "\n",
+    "| **Power of 10** | **Value**           | **Chinese Character** | **Pinyin**    | **Abacus Column**      |\n",
+    "|------------------|---------------------|------------------------|---------------|-------------------------|\n",
+    "| $10^0$         | 1                   | 一                     | yī            | Rightmost column       |\n",
+    "| $10^1$         | 10                  | 十                     | shí           | 2nd column from right  |\n",
+    "| $10^2$         | 100                 | 百                     | bǎi           | 3rd column from right  |\n",
+    "| $10^3$         | 1,000               | 千                     | qiān          | 4th column from right  |\n",
+    "| $10^4$         | 10,000              | 万                     | wàn           | 5th column from right  |\n",
+    "| $10^5$         | 100,000             | 十万                   | shíwàn        | 6th column from right  |\n",
+    "| $10^6$         | 1,000,000           | 百万                   | bǎiwàn        | 7th column from right  |\n",
+    "| $10^7$         | 10,000,000          | 千万                   | qiānwàn       | 8th column from right  |\n",
+    "| $10^8$         | 100,000,000         | 亿                     | yì            | 9th column from right  |\n",
+    "| $10^9$         | 1,000,000,000       | 十亿                   | shíyì         | 10th column from right |\n",
+    "| $10^{10}$      | 10,000,000,000      | 百亿                   | bǎiyì         | 11th column from right |\n",
+    "| $10^{11}$      | 100,000,000,000     | 千亿                   | qiānyì        | 12th column from right |\n",
+    "| $10^{12}$      | 1,000,000,000,000   | 兆                     | zhào          | 13th column from right |\n",
+    "\n",
+    "### Notes:\n",
+    "- Each **column on the abacus** corresponds to one of these powers of 10.\n",
+    "- Numbers on the abacus are represented by summing up bead values in their respective columns, based on the position they represent."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dd47687e-19d5-4b5f-8fe4-0bb967595903",
+   "metadata": {},
+   "source": [
+    "1.\t$\\Huge\\textbf{橙色}$ chéngsè - orange\n",
+    "2.\t$\\Huge\\textbf{紫色}$ zǐsè - violet\n",
+    "3.\t$\\Huge\\textbf{棕色}$ zōngsè - brun\n",
+    "4.\t$\\Huge\\textbf{褐色}$ hésè - brun foncé\n",
+    "5.\t$\\Huge\\textbf{白色}$ báisè - blanc\n",
+    "6.\t$\\Huge\\textbf{绿色}$ lǜsè - vert\n",
+    "7.\t$\\Huge\\textbf{蓝色}$ lánsè - bleu\n",
+    "8.\t$\\Huge\\textbf{红色}$ hóngsè - rouge\n",
+    "9.\t$\\Huge\\textbf{黄色}$ huángsè - jaune\n",
+    "10.\t$\\Huge\\textbf{黑色}$ hēisè - noir\n",
+    "11.\t$\\Huge\\textbf{灰色}$ huīsè - gris\n",
+    "12.\t$\\Huge\\textbf{粉色}$ fěnsè - rose\n",
+    "13.\t$\\Huge\\textbf{金色}$ jīnsè - doré\n",
+    "14.\t$\\Huge\\textbf{银色}$ yínsè - argenté\n",
+    "15.\t$\\Huge\\textbf{深色}$ shēnsè - couleur foncée\n",
+    "16.\t$\\Huge\\textbf{浅色}$ qiǎnsè - couleur claire\n",
+    "17.\t$\\Huge\\textbf{鲜艳}$ xiānyàn - éclatant\n",
+    "18.\t$\\Huge\\textbf{暗}$ àn - sombre\n",
+    "19.\t$\\Huge\\textbf{正方形}$ zhèngfāngxíng - carré\n",
+    "20.\t$\\Huge\\textbf{长方形}$ chángfāngxíng - rectangle\n",
+    "21.\t$\\Huge\\textbf{三角形}$ sānjiǎoxíng - triangle"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "075f90d3-120d-4f3b-9bb2-ee9edf4840aa",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Julia 1.11.1",
+   "language": "julia",
+   "name": "julia-1.11"
+  },
+  "language_info": {
+   "file_extension": ".jl",
+   "mimetype": "application/julia",
+   "name": "julia",
+   "version": "1.11.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
