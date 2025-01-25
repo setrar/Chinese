@@ -10,14 +10,14 @@ Wǒ jiào B..., Nǐ jiā yǒu jǐ kǒu rén?
 GP - 我的家有五口人. 你是哪国人
 Wǒ de jiā yǒu wǔ kǒu rén. Nǐ shì nǎ guórén?
 
-BR _ 我是加拿大人
+BR _ 我是加拿大人, 你呢？
 Wǒ shì jiānádà rén, nǐ ne?
 
 GP - 我是法国人. 你会说汉语吗?
 Wǒ shì fàguó rén. Nǐ huì shuō hànyǔ ma?
 
-BR - 对, 我说汉语和英语
-Duì, wǒ shuō hànyǔ hé yīngyǔ, nǐ ne?
+BR - 对, 我 说 汉语 和 英语 和 马达加斯加语, 你呢？
+Duì, wǒ shuō hànyǔ hé yīngyǔ hé mǎdájiāsījiā yǔ, nǐ ne?
 
 GP - 我说法语和德语. 今天, 你吃什么菜
 Wǒ shuō fǎyǔ hé déyǔ. Jīntiān, nǐ chī shénme cài?
