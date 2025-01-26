@@ -3,8 +3,8 @@
 ## Scene 1: Meeting in China
 
 JB: 你好！你也是黑人！
-Nǐ hǎo! Nǐ yě shì hēirén!
-(Hello! You’re also Black!)
+- Nǐ hǎo! Nǐ yě shì hēirén!
+- (Hello! You’re also Black!)
 
 BR: 对！哈哈。你是哪国人？
 Duì! Hāhā. Nǐ shì nǎ guórén?
