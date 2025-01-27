@@ -3,7 +3,7 @@
 ## Scene 1: Meeting in China
 
 JB: 你好！你也是黑人！
-- Nǐ hǎo! Nǐ yě shì hēirén!
+- Nǐ hǎo! Nǐ yě shì hēirén ma?
 - (Hello! You’re also Black!)
 
 BR: 对！哈哈。你是哪国人？
@@ -42,7 +42,7 @@ BR: 这是什么？
 - (What is this?)
 
 JB: 这是牙买加的小吃，是香蕉的小吃。
-- Zhè shì Yámǎijiā de xiǎochī, shì xiāngjiāo de xiǎochī.
+- Zhè shì Yámǎijiā de xiǎochī, shì xiāngjiāo zuò de xiǎochī.
 - (This is a Jamaican snack, a banana snack.)
 
 BR: 哦！好，谢谢！
