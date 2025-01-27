@@ -52,7 +52,7 @@ BR: 哦！好，谢谢！
 ## Scene 3: Making plans
 
 BR: 你今天晚上想做什么？
-- Nǐ jīntiān wǎnshàng xiǎng zuò shénme?
+- Jīntiān wǎnshàng, nǐ xiǎng zuò shénme?
 - (What do you want to do tonight?)
 
 JB: 我想去吃饭。你呢？
