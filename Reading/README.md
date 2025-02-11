@@ -1,7 +1,7 @@
 To quickly improve your Chinese reading speed, follow this structured approach, focusing on foundational knowledge, strategic practice, and effective tools:
 
 ### 1. **Master the Basics**
-   - **Learn Radicals**: Start with common radicals (e.g., 氵water, 亻person) to decode character meanings and pronunciations.
+   - **Learn [Radicals](Radicals)**: Start with common radicals (e.g., 氵water, 亻person) to decode character meanings and pronunciations.
    - **Pinyin Proficiency**: Use pinyin to link sounds to characters, aiding in quicker recognition and pronunciation.
 
 ### 2. **Build Vocabulary Efficiently**
