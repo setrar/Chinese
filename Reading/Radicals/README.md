@@ -22,38 +22,38 @@ Chinese radicals are essential components of characters, often providing clues a
 6. **水 (shuǐ) - Water**  
    - Example: 河 (river), 海 (sea), 洗 (wash).
 
-7. **火 (huǒ) - Fire**  
+7. **氵 (sān diǎn shuǐ) - Water (variant)**  
+    - Example: 河 (river), 湖 (lake), 洗 (wash).
+
+8. **火 (huǒ) - Fire**  
    - Example: 热 (hot), 灯 (lamp), 烧 (burn).
 
-8. **土 (tǔ) - Earth/Soil**  
+9. **土 (tǔ) - Earth/Soil**  
    - Example: 地 (ground), 场 (field), 城 (city).
 
-9. **女 (nǚ) - Woman**  
+10. **女 (nǚ) - Woman**  
    - Example: 妈 (mom), 姐 (older sister), 好 (good).
 
-10. **子 (zǐ) - Child**  
+11. **子 (zǐ) - Child**  
     - Example: 孩 (child), 学 (study), 字 (character).
 
-11. **心 (xīn) - Heart**  
+12. **心 (xīn) - Heart**  
     - Example: 想 (think), 爱 (love), 忙 (busy).
 
-12. **手 (shǒu) - Hand**  
+13. **手 (shǒu) - Hand**  
     - Example: 打 (hit), 拿 (hold), 拍 (clap).
 
-13. **目 (mù) - Eye**  
-    - Example: 看 (look), 睛 (eye), 睡 (sleep).
-
-14. **艹 (cǎo) - Grass**  
-    - Example: 花 (flower), 草 (grass), 茶 (tea).
-
-15. **宀 (mián) - Roof**  
-    - Example: 家 (home), 安 (peace), 室 (room).
-
-16. **扌 (tí shǒu páng) - Hand (variant)**  
+14. **扌 (tí shǒu páng) - Hand (variant)**  
     - Example: 找 (find), 把 (hold), 拉 (pull).
 
-17. **氵 (sān diǎn shuǐ) - Water (variant)**  
-    - Example: 河 (river), 湖 (lake), 洗 (wash).
+15. **目 (mù) - Eye**  
+    - Example: 看 (look), 睛 (eye), 睡 (sleep).
+
+16. **艹 (cǎo) - Grass**  
+    - Example: 花 (flower), 草 (grass), 茶 (tea).
+
+17. **宀 (mián) - Roof**  
+    - Example: 家 (home), 安 (peace), 室 (room).
 
 18. **讠 (yán zì páng) - Speech**  
     - Example: 说 (speak), 话 (speech), 请 (please).
