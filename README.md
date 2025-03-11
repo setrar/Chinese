@@ -1,5 +1,6 @@
 # Chinese
 
+Brice: 布莱斯: Bù lái sī
 
 # References
 
